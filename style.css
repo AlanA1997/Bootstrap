@@ -1,0 +1,19 @@
+.card{
+    margin-right: 7px;
+    margin-left: 7px;
+    border: 1px solid black;
+}
+.card-img-top{
+    height: 22vh;
+}
+#formulario{
+    margin-top: 10px;
+    margin-left: 7px;
+}
+.form-group{
+    margin-top: 20px;
+}
+#bt{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
