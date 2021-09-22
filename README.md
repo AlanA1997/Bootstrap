@@ -1,5 +1,5 @@
 # Bootstrap
   
-![](screenshot/img1.jpg)<br>
-![](screenshot/img2.jpg)<br>
-![](screenshot/img3.jpg)<br>
+![](screenshot/img1.jpg)<br><br>
+![](screenshot/img2.jpg)<br><br>
+![](screenshot/img3.jpg)<br><br>
